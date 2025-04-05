@@ -12,12 +12,12 @@ A corrected **Elvish subtitle track** for the **2011 German Extended Edition Blu
 
 > **Note**: Permitted for personal, non-commercial use only.
 
-### **Step 1: Create MKV Files from Your Original Blu-ray Disc**
+### **Step 1: Create MKV Files from Your Original Blu-ray Discs**
 
-1. Insert the **Fellowship of the Ring: Part 1 Extended Edition** into your Blu-ray drive.
+1. Insert the **Fellowship of the Ring Extended Edition: Part 1** into your Blu-ray drive.
 2. Install **[MakeMKV](https://www.makemkv.com/download/)**, then open it and select the Blu-ray disc.
-3. Create the MKV files. Default settings work well for this.
-4. Repeat for **Fellowship of the Ring: Part 2 Extended Edition**
+3. Create the MKV file. Default settings work well for this.
+4. Repeat for **Fellowship of the Ring Extended Edition: Part 3**
 
 ### **Step 2: Replace the Subtitle Track with the Fixed Version**
 
@@ -28,6 +28,6 @@ A corrected **Elvish subtitle track** for the **2011 German Extended Edition Blu
 
 ## **Technical Details**
 
-The Elvish subtitles are in the **Blu-ray PGS (Presentation Graphic Stream) subtitle file (.sup)** format, which is **image-based**, not text-based. To extract the .sup file from the MKV, **[gMKVExtractGUI](https://mkvtoolnix.download/links.html)** was used. After extracting the .sup file, the specific subtitle line was isolated as a PNG image using **[Subtitle Edit](https://www.nikse.dk/subtitleedit)**, and then edited in **[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)**. The incorrect **“I bin”** was replaced with the correct **“Ich bin”** from the later part of the sentence. Upon replacing the previous incorrect subtitle image with the new correct one, the **X offset value** was adjusted to ensure that **the corrected line is perfectly centered** within the frame. The word **“Bruchtal”** was carefully constructed by cutting and recombining letters from existing subtitle images to ensure a natural and accurate visual style matching that of the original font and rendering.
+The Elvish subtitles come in **Blu-ray PGS (Presentation Graphic Stream) subtitle file (.sup)** format, which is image-based rather than text-based. The ".sup" file was extracted from the MKV using **[gMKVExtractGUI](https://mkvtoolnix.download/links.html)**. Using **[Subtitle Edit](https://www.nikse.dk/subtitleedit)**, the specific subtitle images were isolated and edited in **Adobe Photoshop**. The incorrect **"I bin"** was replaced with **"Ich bin"**, taken from the latter part of the sentence. The **X offset** was adjusted to center the updated subtitles precisely. The term **"Rivendell"** was replaced with the proper German equivalent **"Bruchtal"**, carefully assembled by cutting and reusing existing letters from other subtitles to preserve the original font and rendering style as seen below.
 
 ![Behind-the-scenes](images/behind-the-scenes.png)
