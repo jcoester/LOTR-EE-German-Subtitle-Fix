@@ -17,7 +17,7 @@ A corrected **Elvish subtitle track** for the **2011 German Extended Edition Blu
 ### **Step 2: Replace the Subtitle Track with the Fixed Version**
 
 1. Download the [updated subtitle file](https://github.com/jcoester/LOTR-EE-German-Subtitle-Fix/raw/main/lotr-ee-fotr-german-subtitle-fix.sup) from this repo.
-2. Install **[MKVToolNix](https://mkvtoolnix.download/downloads.html)**, then open and load the **MKV movie file** and the **fixed subtitle file**.
+2. Install **[MKVToolNix](https://mkvtoolnix.download/downloads.html)**, then open it and load a) the **MKV movie file** and b) the **updated subtitle file**.
 3. **Deactivate the Original Elvish Subtitle Track**.
 4. **Start Multiplexing** to create the new MKV file.
 
