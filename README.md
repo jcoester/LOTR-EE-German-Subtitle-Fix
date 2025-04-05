@@ -1,6 +1,7 @@
 # LOTR-EE-German-Subtitle-Fix
 
 A corrected **Elvish subtitle track** for the **2011 German Extended Edition Blu-ray** of **The Lord of the Rings: The Fellowship of the Ring** (**Der Herr der Ringe: Die Gefährten**). The fix addresses a typographical error where **“I bin Arwen”** was shown instead of the correct **“Ich bin Arwen”**. This error unintentionally evokes a humorous association with the German youth slang "[I bims](https://www.dw.com/en/i-bims-german-youth-word-of-the-year-2017/a-41422471)" which contradicts the serious tone of the scene.
+
 ![Subtitle Comparison](comparison.gif)
 
 ## **How to Use the Updated Subtitles**
@@ -15,7 +16,7 @@ A corrected **Elvish subtitle track** for the **2011 German Extended Edition Blu
 
 ### **Step 2: Replace the Subtitle Track with the Fixed Version**
 
-1. Download the [updated subtitle file](https://github.com/jcoester/LOTR-EE-German-Subtitle-Fix/blob/main/lotr-ee-fotr-german-subtitle-fix.sup) from this repo.
+1. Download the [updated subtitle file](https://github.com/jcoester/LOTR-EE-German-Subtitle-Fix/raw/main/lotr-ee-fotr-german-subtitle-fix.sup) from this repo.
 2. Install **[MKVToolNix](https://mkvtoolnix.download/downloads.html)**, then open and load the **MKV movie file** and the **fixed subtitle file**.
 3. **Deactivate the Original Elvish Subtitle Track**.
 4. **Start Multiplexing** to create the new MKV file.
