@@ -51,3 +51,9 @@ Corrected **Elvish subtitle tracks** for the **2011 German Extended Edition Blu-
 ## **Technical Details**
 
 The Elvish subtitles come in **Blu-ray PGS (Presentation Graphic Stream) subtitle file (.sup)** format, which is **image-based** rather than text-based. The ".sup" files were extracted from the MKVs using **[gMKVExtractGUI](https://mkvtoolnix.download/links.html)**. The specific subtitle images were isolated using **[Subtitle Edit](https://www.nikse.dk/subtitleedit)** and then edited in **[Photoshop](https://www.adobe.com/products/photoshop.html)**. **"Ich bin"** was reused from the latter part of the sentence, and the proper German term **"Bruchtal"** was carefully assembled by reusing letters from other parts of the subtitles to preserve the original font, rendering style, and spacing. **X offsets** were adjusted to ensure the **updated subtitles are perfectly centered**.
+
+## **Why This Fix Matters**
+
+The **Elvish subtitles** are crucial to the story, conveying important dialogue during key moments. A small error, such as **"I bin Arwen"**, can undermine the serious tone of the scene. Despite the release of the **2020 4K Remastered Extended Edition**, the **2011 Blu-ray Extended Edition** remains a fan favorite and is still regarded by some as the gold standard. This is because, among other issues, the 4K Remaster prominently introduced excessive **DNR (Digital Noise Reduction)**, which reduces fine detail, especially in wide shots as seen in the image below. Restoring the subtitles using the provided fix helps preserve the **original spirit and quality** of the trilogy for German audiences.
+
+![2011 Blu-ray vs 2020 4K Remaster Comparison](images/2011-vs-2020.jpg)
