@@ -40,3 +40,4 @@ Corrected **Elvish subtitle tracks** for the **2011 German Extended Edition Blu-
 ## **Technical Details**
 
 The Elvish subtitles come in **Blu-ray PGS (Presentation Graphic Stream) subtitle file (.sup)** format, which is **image-based** rather than text-based. The ".sup" files were extracted from the MKVs using **[gMKVExtractGUI](https://mkvtoolnix.download/links.html)**. The specific subtitle images were isolated using **[Subtitle Edit](https://www.nikse.dk/subtitleedit)** and then edited in **[Photoshop](https://www.adobe.com/products/photoshop.html)**. **"Ich bin"** was reused from the latter part of the sentence, and the proper German term **"Bruchtal"** was carefully assembled by reusing letters from other parts of the subtitles to preserve the original font, rendering style, and spacing. **X offsets** were adjusted to ensure the **updated subtitles are perfectly centered**.
+
