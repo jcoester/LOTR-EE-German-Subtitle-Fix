@@ -11,7 +11,7 @@ Corrected **Elvish subtitle tracks** for the **2011 German Extended Edition Blu-
    - *0:00:36* → **Comma sign** was used instead of a **period** at the end of a sentence. 
    - *0:00:41* → **"Rivendell"** was incorrectly used in place of the correct German term **"Bruchtal"**. 
 
-!["I bin Arwen" to "Ich bin Arwen"](images/comparison.gif)  
+!["I bin Arwen" to "Ich bin Arwen"](images/comparison-1.gif)  
 !["Missing Period Fix"](images/comparison-2.gif)  
 !["Comma Sign Fix"](images/comparison-3.gif)
 !["Rivendell to Bruchtal"](images/comparison-4.gif)
