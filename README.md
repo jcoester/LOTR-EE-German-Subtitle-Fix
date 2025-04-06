@@ -54,6 +54,10 @@ The Elvish subtitles come in **Blu-ray PGS (Presentation Graphic Stream) subtitl
 
 ## **Why This Fix Matters**
 
-The **Elvish subtitles** are crucial to the story, conveying important dialogue during key moments. A small error, such as **"I bin Arwen"**, can undermine the serious tone of the scene. Despite the release of the **2020 4K Remastered Extended Edition**, the **2011 Blu-ray Extended Edition** remains a fan favorite and is still regarded by some as the gold standard. This is because, among other issues, the 4K Remaster prominently introduced excessive **DNR (Digital Noise Reduction)**, which reduces fine detail, especially in wide shots as seen in the image below. Restoring the subtitles using the provided fix helps preserve the **original spirit and quality** of the trilogy for German audiences.
+The **Elvish subtitles** are crucial to the story, conveying important dialogue during key moments. A small error, such as **"I bin Arwen"**, can undermine the serious tone of the scene. Despite the release of the **2020 4K Remastered Extended Edition**, the **2011 Blu-ray Extended Edition** remains a fan favorite and is still regarded by some as the gold standard. This is because, among other issues, the 4K Remaster prominently introduced excessive **DNR (Digital Noise Reduction)**, which reduces fine detail, especially in wide shots. Restoring the subtitles using the provided fix helps preserve the **original spirit and quality** of the trilogy for German audiences.
 
-![2011 Blu-ray vs 2020 4K Remaster Comparison](images/2011-vs-2020.jpg)
+## **Outlook**
+
+I'm working on translating more of the Middle-earth language lines (e.g., Sindarin, Quenya, Khuzdûl, Black Speech, and Rohirric). The goal isn't to flood the films with new subtitles, but to focus on key moments where additional subtitles can enhance the viewing experience without overwhelming the viewer. An example of an added line missing in the official Blu-ray:
+
+ !["Farewell Theodred"](images/outlook.gif)
